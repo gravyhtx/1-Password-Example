@@ -1,4 +1,4 @@
-# 1-Password Example Documentation
+# 1-Password Example
 
 
 ## User Story
