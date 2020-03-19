@@ -86,11 +86,13 @@ CREATE DATABASE passport_demo;
 ```
 
 
-Run this command by clicking the lightning bolt button to run and verify database is created by clicking the refresh button on the top right of the 'SCHEMAS' list.
+Run this command by clicking the lightning bolt button to run and verify database is created by clicking the refresh button on the top right of the <b>SCHEMAS</b> list.
+
+Finally, go into the 'config.json' file (found in the 'config' folder) and type your MySQL password into the development, test, and production 'password' objects.
 
 
 
-### Run Program
+### Deployment
 
 Once current Node.js version is verified and 'passport_demo' database is created, you can navigate to the root folder of this program in your console terminal and run the following command.
 
