@@ -109,9 +109,9 @@ This program will run in your browser at http://localhost:8080/
 
 If you're unable to run this program because of an error message:
 
-    Be sure you've verified you're in the correct folder in your console terminal
-    Make sure the 'passport_demo' database is listed in 'SCHEMAS' list in MySQL
-    Check that all dependencies are installed (which will be found in console terminal error log with modules not found)
+* Be sure you've verified you're in the correct folder in your console terminal
+* Make sure the 'passport_demo' database is listed in 'SCHEMAS' list in MySQL
+* Check that all dependencies are installed (which will be found in console terminal error log with modules not found)
 
 Otherwise you may need to install all program contents again.
 
