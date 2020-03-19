@@ -22,9 +22,13 @@ In order to get this program to work on you systems, you must install the follow
 
 ```json
 "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.1.0",
+    "express-session": "^1.17.0",
+    "mysql2": "^1.7.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
     "sequelize": "^5.21.5"
   }
 ```
